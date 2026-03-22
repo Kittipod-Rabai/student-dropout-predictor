@@ -16,4 +16,4 @@ streamlit run app/app.py
 https://student-dropout-predictor-rwpbfeqy8fvwfuk36syol4.streamlit.app/
 
 ## ผลลัพธ์โมเดล
-Macro F1: 0.998 % | Accuracy: 0.998 %
+Macro F1: 0.998  | Accuracy: 0.998 
